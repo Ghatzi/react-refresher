@@ -2,18 +2,18 @@
   "items": [
     {
       "id": 1,
-      "checked": false,
-      "item": "Chips"
+      "checked": true,
+      "item": "milk"
     },
     {
       "id": 2,
-      "checked": false,
-      "item": "Pizza"
+      "checked": true,
+      "item": "cookies"
     },
     {
       "id": 3,
       "checked": false,
-      "item": "Bread"
+      "item": "butter"
     }
   ]
 }
